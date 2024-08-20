@@ -7,17 +7,29 @@ El proyecto está organizado de la siguiente manera:
 
 project/
 │
+
 ├── src/
+
 │   ├── core/
+
 │   │   ├── __init__.py
+
 │   │   └── exceptions.py  # Contiene las excepciones personalizadas
+
 │   │
+
 │   └── controllers/
+
 │       ├── __init__.py
+
 │       └── immovables.py  # Controlador para manejar la lógica de inmuebles
+
 │      
+
 ├── test_app_flask.py      # Pruebas para la aplicación Flask
+
 ├── app.py                 # Archivo principal que inicializa la aplicación Flask
+
 └── requirements.txt       # Dependencias del proyecto
 
 
