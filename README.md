@@ -52,7 +52,7 @@ La aplicación proporciona una ruta raíz (/) que permite recuperar todos los in
 # Segundo requerimiento 
 Para el segundo punto se puede crear una tabla de rompimiento que relaciona la propiedad y el usuario junto con una fecha de creaciòn para saber cuando fue el like
 
-![modelo](relational.png)
+![modelo](relational_model.png)
 
 ### sql 
 CREATE TABLE user_property_association (
